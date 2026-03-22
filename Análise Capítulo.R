@@ -1,10 +1,9 @@
 #### instalar e carregar pacotes ####
-install.packages(c("car", "ggplot2", "lavaan", "semPlot", "readr"))
+install.packages(c("car", "ggplot2", "lavaan", "readr"))
 
 library(car)
 library(ggplot2)
 library(lavaan)
-library(semPlot)
 library(readr)
 
 #### carregar o banco ####
